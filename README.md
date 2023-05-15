@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Lyubov</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  
 <h3 align="center">I'm interested in Data Analysis.</h3>
-<h4 align="center">In this account I will upload my pet-projects.</h4>
+<h4 align="center">In this account I will upload my projects.</h4>
 
-<h5 align="center">📫 How to reach me: Telegram @ama_lls, mailto ls88ds@gmail.com</h5>
+<h5 align="center">📫 How to reach me: Telegram @ama_lls
 
 <!--
 **ama-lls/ama-lls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
