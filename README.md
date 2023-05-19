@@ -3,8 +3,8 @@
 <h3 align="center">I'm interested in Data Analysis.</h3>
 <h4 align="center">In this account I will upload my projects.</h4>
 
-<h5 align="center">📫 How to reach me: Telegram @ama_lls
 
+<h3 align="center"><a href="https://t.me/ama_lls"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></h3>
 <!--
 **ama-lls/ama-lls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
