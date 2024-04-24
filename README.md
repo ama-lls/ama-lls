@@ -12,7 +12,7 @@
 ###### Инструменты: 
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, SQLAlchemy
 - PostgreSQL, MySQL
-- Power BI, Tableau, Yandex DataLens
+- Power BI, Tableau, Yandex DataLens, Looker Studio
     
 <h3 align="center">Мои проекты</h3>
 
