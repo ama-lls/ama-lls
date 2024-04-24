@@ -10,7 +10,7 @@
 Мне интересен анализ данных, нравится искать инсайты и делать понятные визуализации.
 
 ###### Инструменты: 
-- Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, SQLAlchemy
+- Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, SQLAlchemy, Requests, Gspread 
 - PostgreSQL, MySQL
 - Power BI, Tableau, Yandex DataLens, Looker Studio
     
