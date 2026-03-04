@@ -12,7 +12,7 @@
 ###### Инструменты: 
 - Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, SQLAlchemy, Requests, Gspread 
 - PostgreSQL, MySQL, MS SQL
-- Power BI, Tableau, Yandex DataLens, Looker Studio, Fastboard
+- Power BI, Tableau, Yandex DataLens, Looker Studio, Fastboard, FineBI
     
 <h3 align="center">Мои проекты</h3>
 
